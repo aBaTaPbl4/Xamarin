@@ -1,0 +1,10 @@
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\BugSweeper.dll
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\BugSweeper.pdb
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\Xamarin.Forms.Core.dll
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\Xamarin.Forms.Xaml.dll
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\Xamarin.Forms.Core.xml
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\bin\Debug\Xamarin.Forms.Xaml.xml
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\obj\Debug\BugSweeper.csprojResolveAssemblyReference.cache
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\obj\Debug\BugSweeperPage.xaml.g.cs
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\obj\Debug\BugSweeper.dll
+P:\Xamarin\BugSweeper\BugSweeper\BugSweeper\obj\Debug\BugSweeper.pdb
